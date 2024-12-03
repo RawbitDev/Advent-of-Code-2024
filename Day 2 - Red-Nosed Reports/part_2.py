@@ -28,7 +28,7 @@ def check_report_levels(all_levels: list[int]) -> bool:
     return False
 
 
-def count_safe_reports(filepath: str):
+def count_safe_reports(filepath: str) -> int:
     safe_reports: int = 0
     with open(filepath, encoding="utf8") as file:
         for line in file:
