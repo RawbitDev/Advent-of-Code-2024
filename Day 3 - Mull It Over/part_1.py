@@ -23,7 +23,6 @@ def calc_memory(filepath: str) -> int:
         return result
         
 
-
 if __name__ == "__main__":
     assert(calc_memory(in_file("test")) == 161)
 
