@@ -1,5 +1,5 @@
 ################################################
-# Day 7: Bridge Repair - Part 1 (by RawbitDev) #
+# Day 7: Bridge Repair - Part 2 (by RawbitDev) #
 ################################################
 
 import os
